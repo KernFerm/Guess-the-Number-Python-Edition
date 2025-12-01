@@ -6,6 +6,11 @@ A modern, feature-rich GUI number guessing game built with Python and CustomTkin
 
 Try to guess the secret number between 0 and 100 in as few attempts as possible! With only 7 attempts per round, you'll need to use strategy and hints wisely to achieve a high win rate.
 
+
+# Join the discord if you need help 
+
+[https://fnbubbles420.org/discordinvite](https://fnbubbles420.org/discordinvite)
+
 ## ✨ Features
 
 ### 🎨 **Modern GUI Interface**
